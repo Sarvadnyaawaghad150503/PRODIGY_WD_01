@@ -6,7 +6,7 @@
 }
 
 body {
-    padding-top: 60px; /* Add padding to the body to prevent content from being overlapped by the fixed navbar */
+    padding-top: 60px; 
   }
   
   /* Add custom CSS to keep the navbar fixed at the top after scrolling */
@@ -114,4 +114,7 @@ h3{
 .abous{
     width: 70%;
     margin-left: 50px;
+}
+.logoimg{
+    margin-top: 70px;
 }
